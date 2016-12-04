@@ -1,3 +1,5 @@
+This is the start of the OkiMarket Project. Further descriptions coming soon.
+
 # A starter webpack project for React
 
 This is a starter project that uses webpack to transpile and bundle ES6 React code. To use, clone this repo and then `npm install`.
