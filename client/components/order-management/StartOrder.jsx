@@ -46,7 +46,7 @@ class StartOrder extends Component {
                 </div>
 
                 <div className="b-t">                   
-                    <span onClick={this.chooseBag} className="bag-title1" data="K50 MARKET BAG">K50 MARKET BAG</span>
+                    <button onClick={this.chooseBag} className="bag-title1" data="K50 MARKET BAG">K50 MARKET BAG</button>
                 </div>
 
                 <div className="b-i">
@@ -54,7 +54,7 @@ class StartOrder extends Component {
                 </div>
 
                 <div className="b-t">                   
-                    <span onClick={this.chooseBag} className="bag-title2" data="K25 MARKET BAG">K25 MARKET BAG</span>
+                    <button onClick={this.chooseBag} className="bag-title2" data="K25 MARKET BAG">K25 MARKET BAG</button>
                 </div>
 
                 <div className="b-i">
@@ -62,7 +62,7 @@ class StartOrder extends Component {
                 </div>
 
                 <div className="b-t">                   
-                    <span onClick={this.chooseBag} className="bag-title3" data="K15 MARKET BAG">K15 MARKET BAG</span>
+                    <button onClick={this.chooseBag} className="bag-title3" data="K15 MARKET BAG">K15 MARKET BAG</button>
                 </div>
 
                 <div className="p-o">
