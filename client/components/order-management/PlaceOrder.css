@@ -1,0 +1,58 @@
+.placeOrder {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.placeOrder-form {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.input-box1 {
+    width: 500px;
+    margin-left: 154px;
+}
+
+.input-box2 {
+    width: 500px;
+    margin-left: 136px;
+}
+
+.input-box3 {
+    width: 504px;
+    margin-left: 128px;
+}
+
+.input-box4 {
+    width: 500px;
+    margin-left: 188px;
+}
+
+.input-box5 {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.input-box6 {
+    width: 500px;
+    margin-left: 127px;
+}
+
+.input-box7 {
+    width: 500px;
+    margin-left: 149px;
+}
+
+.c-o {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.complete-order {
+    border: 1px solid;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+    background-color: green;
+}

@@ -1,0 +1,63 @@
+.startOrder {
+    /* margin-top: 70px; */
+    text-align: center;
+}
+
+.b-i1 {
+    margin-right: 286px;
+}
+
+.b-i {
+    margin-top: 88px;
+    margin-right: 286px;
+}
+
+.bag-image {
+    height: 150px;
+}
+
+.b-t {
+    margin-top: -94px;
+    margin-left: 264px;
+}
+.bag-title1 {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 11px;
+    background-color: lightsalmon;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.bag-title2 {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 11px;
+    background-color: lightskyblue;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.bag-title3 {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 11px;
+    background-color: lightgreen;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.p-o {
+    text-align: center;
+    margin-top: 109px;
+    margin-left: 150px;
+}
+
+.place-order {
+    border: 1px solid;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+    background-color: green;
+}
