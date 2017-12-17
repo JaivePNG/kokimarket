@@ -44,7 +44,7 @@ class PlaceOrder extends Component {
         handleSubmit(event) {
         event.preventDefault();
         if(validator.isValidOrder(this.state.firstName,this.state.secondName,this.state.officeLocation,this.state.email,this.state.contactNumber,this.state.workLocation,this.state.paymentMethod)){
-        orderService.addOrder(this.state.firstName,this.state.secondName,this.state.officeLocation,this.state.email,this.state.contactNumber,this.state.workLocation,this.state.paymentMethod).then(res => {
+        orderService.addOrder(this.state.firstName,this.state.secondName,this.state.officeLocation,this.state.email,this.state.contactNumber,this.state.workLocation,this.state.paymentMethod,this.state.bag).then(res => {
             console.log(res);
            if(res.status==200){
                 this.props.history.push({
